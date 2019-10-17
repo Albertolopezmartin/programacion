@@ -1,5 +1,5 @@
 //Alberto López Martín 1º DAW
-public class ejercicioSorp {
+public class ejercicioSorp4 {
   public static void main (String[] args) {
     int altura;
     int numPir;
