@@ -1,0 +1,46 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 13-feb-2020, 10:04:28
+    Author     : Alberto López Martín
+*/
+
+root {
+    display: block;
+}
+body {
+    background-image: url(euros.jpg);
+    background-repeat: repeat;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+}
+h1 {
+    text-align: center;
+    color: gold;
+    text-shadow: #242424 2px 2px 2px;
+}
+h2 {
+    text-align: center;
+    padding-top: 32px;
+    font-size: 18px;
+    color: white;
+    text-shadow: #242424 2px 2px 2px;
+}
+.dinero {
+    width: 400px;
+    height: 200px;
+    background-color: gold;
+    margin: auto;
+    margin-top: 200px;
+    box-shadow: #242424 4px 4px 4px;
+    background-image: url(euros-reverso.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+form {
+    padding: 20px;
+    text-align: center;
+}
